@@ -3,7 +3,8 @@
     { "id": 1001, "name": "Steve", "Job": "Lawyer" },
     { "id": 1002, "name": "Adam", "Job": "Doctor" },
     { "id": 1003, "name": "Sean", "Job": "Farmer" },
-    { "id": 1004, "name": "Tony", "Job": "Programmer" }
+    { "id": 1004, "name": "Tony", "Job": "Programmer" },
+    { "id": 1005, "name": "Isac", "Job": "Programmer" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
