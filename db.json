@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 0001, "name": "Adam", "age": "41", "city": "Bangkok" },
-    { "id": 0002, "name": "Sean", "age": "33", "city": "Bangkok"  },
-    { "id": 0003, "name": "Tony", "age": "21", "city": "Chonburi"  }
+    { "id": 0001, "name": "Adam", "age": 41, "city": "Bangkok" },
+    { "id": 0002, "name": "Sean", "age": 33, "city": "Bangkok"  },
+    { "id": 0003, "name": "Tony", "age": 21, "city": "Chonburi"  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
